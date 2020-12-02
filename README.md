@@ -1,4 +1,4 @@
-#TestCafe
+# TestCafe
 
 This is a simple illustration of an end-to-end automated test with TestCafe. To run the sample, first install TestCafe globally in your computer: 
 
